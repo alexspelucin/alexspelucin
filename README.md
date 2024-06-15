@@ -8,6 +8,6 @@
 
 ### 📧 Contacto
 
-- [Via mi sitio web](https://spelucin.online/contacto).\n
-- [Via mi correo](mailto:alex@spelucin.online).\n
+- [Via mi sitio web](https://spelucin.online/contacto).
+- [Via mi correo](mailto:alex@spelucin.online).
 - [Via LinkedIn](https://www.linkedin.com/in/alexspelucin/).
