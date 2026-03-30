@@ -4,6 +4,7 @@
 - 🎓: Python, SQL, JavaScript.
 - 🎧: Punk, hip-hop, house.
 - 🎮: Juegos de pelea, RPG y estrategia.
+- 🤖: Gunpla!
 - 🏠: Padre amoroso y esposo enamorado para siempre de [@ginieillustrated](https://www.instagram.com/ginieillustrated/).
 
 ### 📧 Contacto
