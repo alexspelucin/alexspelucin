@@ -9,6 +9,6 @@
 
 ### 📧 Contacto
 
-- [Via mi sitio web](https://spelucin.online/contacto).
-- [Via mi correo](mailto:hola@spelucin.digital).
-- [Via LinkedIn](https://www.linkedin.com/in/alexspelucin/).
+- [Via mi sitio web](https://spelucin.com/).
+- [Via mi correo](mailto:hola@spelucin.com).
+- [Via LinkedIn](https://www.linkedin.com/in/spelucin/).
