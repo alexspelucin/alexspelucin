@@ -31,7 +31,7 @@ Soy consultor de **SEO técnico para ecommerce Shopify**. Ayudo a tiendas a mult
 ## 🎮 Hobbies
 
 | 🎧 Música | 🎮 Gaming | 👨‍👩‍👧 Familia |
-|:---------:|:---------:|:---------:|:-------------:|
+|:---------:|:---------:|:-------------:|
 | Punk, Hip-Hop, House, DnB, Jazz | Fighting, RPG, Estrategia | Padre & esposo de [@ginieillustrated](https://instagram.com/ginieillustrated) |
 
 ## 📧 Contacto
