@@ -25,8 +25,8 @@ Soy consultor de **SEO técnico para ecommerce Shopify**. Ayudo a tiendas a mult
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![DataForSEO](https://img.shields.io/badge/DataForSEO-FF6B35?style=for-the-badge)
-🐸 Screaming Frog
+![DataForSEO](https://img.shields.io/badge/DataForSEO-191F35?style=for-the-badge)
+![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-75b42d?style=for-the-badge)
 
 ## 🎮 Hobbies
 
