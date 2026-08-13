@@ -4,7 +4,9 @@ Soy Alex Spelucín, Analista Digital. Hago que la data de marketing sea usable: 
 
 ## 🎯 Mi trayectoria
 
-Empecé en SEO técnico enterprise: Ripley (CyberWow 2020, 3.7M sesiones en un día) e Intercorp Retail. Luego lideré analytics en Notebook Agency (15-20 cuentas concurrentes) y construí sistemas de reporting para Torices y Owlbox.
+Empecé trabajando en SEO para ecommerces grandes como Ripley e Intercorp. Luego me mudé al lado de la analítica digital y trabajé con clientes grandes y pequeños en toda América: Laboratoria, Menorca, 6sense, Metabolic Mind, StocksToTrade y Freshbooks.
+
+Hoy trabajo como analista digital independiente, enfocado en crear herramientas de datos útiles para marketers. Conócelas en [spelucin.pro](https://spelucin.pro).
 
 ## 🛠️ Qué hago
 
