@@ -12,14 +12,14 @@ Después pasé al lado de analytics. Lideré la analítica de **15-20 cuentas de
 
 Ahora hago que la **data de marketing sea usable**: medición confiable (GA4/GTM), reporting que escala (Looker Studio) y data infrastructure (BigQuery) para equipos de marketing, analytics y agencias.
 
-¿Por qué este enfoque? Porque los equipos no necesitan más datos — necesitan una versión confiable de los que ya tienen. Fuentes que cuadran, medición corregida, reporting estandarizado y documentación que sobrevive la rotación del equipo. No vendo dashboards sueltos ni warehouses; creo claridad a partir de datos fragmentados.
+¿Por qué este enfoque? Porque los equipos no necesitan más datos: necesitan una versión confiable de los que ya tienen. Fuentes que cuadran, medición corregida, reporting estandarizado y documentación que sobrevive la rotación del equipo. No vendo dashboards sueltos ni warehouses; creo claridad a partir de datos fragmentados.
 
 ## 🛠️ Qué hago
 
-- 🔧 **Auditorías de fuentes de datos** — GA4, GSC y plataformas de ads. Encuentro las discrepancias y la medición rota que están haciendo que tu reporting mienta.
-- 🏗️ **Corrección de medición** — Tagging y event tracking (GTM) que capturan lo que de verdad importa para tus KPIs.
-- 📊 **Frameworks de reporting estandarizados** — Reporting que escala entre clientes: KPIs consistentes, documentación y runbooks que sobreviven la rotación del equipo.
-- 📈 **Data enablement** — Tu equipo aprende a interpretar los datos y tomar decisiones. El reporting no debería depender de una sola persona.
+- 🔧 **Auditorías de fuentes de datos**: GA4, GSC y plataformas de ads. Encuentro las discrepancias y la medición rota que están haciendo que tu reporting mienta.
+- 🏗️ **Corrección de medición**: Tagging y event tracking (GTM) que capturan lo que de verdad importa para tus KPIs.
+- 📊 **Frameworks de reporting estandarizados**: Reporting que escala entre clientes: KPIs consistentes, documentación y runbooks que sobreviven la rotación del equipo.
+- 📈 **Data enablement**: Tu equipo aprende a interpretar los datos y tomar decisiones. El reporting no debería depender de una sola persona.
 
 **Filosofía:** Datos confiables sobre dashboards bonitos. Sistemas que escalan sobre parches que se rompen en tres meses.
 
