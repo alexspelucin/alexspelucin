@@ -1,18 +1,10 @@
 ![Alex Spelucín](./readme-banner.jpg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=22&duration=3000&pause=1000&color=1560BD&center=true&vCenter=true&width=800&lines=Analista+Digital+•+Marketing+Analytics+%26+Data;Notebook+Agency+•+Torices+•+Owlbox;De+SEO+Enterprise+a+Analytics+Leadership;Data+de+Marketing+Usable;Medición+Confiable+%26+Reporting+que+Escala" alt="Typing SVG" />
-</p>
+Soy Alex Spelucín, Analista Digital. Hago que la data de marketing sea usable: medición confiable, reporting que escala y data infrastructure.
 
 ## 🎯 Mi trayectoria
 
-Empecé haciendo SEO técnico para **retail enterprise**. Gestioné el SEO de Plaza Vea, Promart, Oechsle, Real Plaza e Inkafarma en **Intercorp Retail**. Optimicé Ripley para CyberWow (**3.7M sesiones en un día**). Trabajé con Scotiabank y Yanbal en Attach Media.
-
-Después pasé al lado de analytics. Lideré la analítica de **15-20 cuentas de clientes concurrentes** en **Notebook Agency** (Toronto), construí sistemas de reporting para **Torices** y **Owlbox** (10+ clientes cada uno) y entregué **20+ dashboards** como freelance.
-
-Ahora hago que la **data de marketing sea usable**: medición confiable (GA4/GTM), reporting que escala (Looker Studio) y data infrastructure (BigQuery) para equipos de marketing, analytics y agencias.
-
-¿Por qué este enfoque? Porque los equipos no necesitan más datos: necesitan una versión confiable de los que ya tienen. Fuentes que cuadran, medición corregida, reporting estandarizado y documentación que sobrevive la rotación del equipo. No vendo dashboards sueltos ni warehouses; creo claridad a partir de datos fragmentados.
+Empecé en SEO técnico enterprise: Ripley (CyberWow 2020, 3.7M sesiones en un día) e Intercorp Retail. Luego lideré analytics en Notebook Agency (15-20 cuentas concurrentes) y construí sistemas de reporting para Torices y Owlbox.
 
 ## 🛠️ Qué hago
 
