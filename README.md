@@ -36,7 +36,7 @@ Hoy trabajo como analista digital independiente, enfocado en crear herramientas 
 
 | 🎧 Música | 🎮 Gaming | 👨‍👩‍👧 Familia |
 |:---------:|:---------:|:-------------:|
-| Punk, Hip-Hop, House, DnB, Jazz | Fighting, RPG, Estrategia | Padre amoroso. Esposo de [@ginieillustrated](https://instagram.com/ginieillustrated) |
+| Punk, Hip-Hop, House, DnB, Jazz | Fighting, RPG, Estrategia | Girl Dad! 👧 |
 
 ## 📧 Contacto
 
